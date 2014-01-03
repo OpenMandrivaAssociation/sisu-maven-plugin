@@ -1,4 +1,4 @@
-%_javapackages_macros
+%{?_javapackages_macros:%_javapackages_macros}
 %global vertag M4
 
 Name:           sisu-maven-plugin
