@@ -8,7 +8,7 @@ Release:        0.1.%{vertag}.0%{?dist}
 Summary:        Sisu plugin for Apache Maven
 BuildArch:      noarch
 License:        EPL
-URL:            http://eclipse.org/sisu
+URL:            https://eclipse.org/sisu
 Source:         http://git.eclipse.org/c/sisu/org.eclipse.sisu.mojos.git/snapshot/milestones/%{version}.%{vertag}.tar.bz2
 
 BuildRequires:  maven-local
